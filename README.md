@@ -1,34 +1,34 @@
 ##  [Đừng chờ đợi sự hoàn hảo và học hỏi từ những sai lầm của bạn](/2017/06/stop-
 waiting-for-perfection.html)
 
-"Người đàn ông có thể mắc sai lầm miễn rằng anh ta cố gắng" Goethe, hoàng tử thơ người Đức, được biết đến cách đây 200 năm trước. Câu nói đó của anh ta vẫn còn đúng đến ngày hôm nay, nhưng với một sự khác biệt quan trọng : Phấn đấu một mình là không đủ. Bạn phải phấn đấu nhanh hơn những người khác. Và không có gì sai khi phấn đấu cho sự hoàn hảo, trong thế giới số ngày nay bạn không còn có thể đợi sản phầm hoàn hảo rồi mới cung cấp cho khách hàng . Nếu như vậy bạn sẽ bị tụt hậu trong thị trường của bạn.
+"Người đàn ông có thể mắc sai lầm miễn rằng anh ta cố gắng" Goethe, hoàng tử thơ người Đức,  đã hiểu được điều này từ hơn 200 năm trước. Câu nói đó của anh ta vẫn còn đúng đến ngày hôm nay, nhưng với một sự khác biệt quan trọng : Phấn đấu một mình là không đủ. Bạn phải phấn đấu nhanh hơn những người khác. Và không có gì sai khi phấn đấu cho sự hoàn hảo, trong thế giới số ngày nay bạn không còn có thể đợi sản phầm hoàn hảo rồi mới cung cấp cho khách hàng . Nếu như vậy bạn sẽ bị tụt hậu trong thị trường của bạn.
 
 Vì vậy, nếu bạn không thể chờ đợi đến khi hoàn hảo, bạn nên làm gì để thay thế? Tôi tin rằng
 câu trả lời là thử nghiệm tích cực với phát triển sản phẩm của bạn, chấp nhận
 khả năng một số thử nghiệm của bạn sẽ thất bại.
 
-Bất cứ ai đã nghe, làm việc, quản lý gurus đều biết đến câu thần chú : Thất bại là một phần cần thiết của sự tiến bộ .Đúng vậy, nhưng thường có một khoảng cách lớn giữa lý thuyết quản lý và thực tế . Mọi người muốn thử nghiệm và học hỏi từ những những thứ sai. Nhưng những xáo trộn trong công việc hàng ngày khiến họ không đủ thời gian để xác định rõ nguyên nhân gây ra lỗi và phải làm gì khác trong những lần tiếp theo.
+Bất cứ ai đã nghe, làm việc, quản lý gurus đều biết đến câu thần chú của họ: Thất bại là một phần cần thiết của sự tiến bộ .Đúng vậy, nhưng thường có một khoảng cách lớn giữa lý thuyết quản lý và thực tế . Mọi người muốn thử nghiệm và học hỏi từ những những thứ sai. Nhưng những xáo trộn trong công việc hàng ngày khiến họ không đủ thời gian để xác định rõ nguyên nhân gây ra lỗi và phải làm gì khác trong những lần tiếp theo.
 
 Giải pháp là tìm cách tiếp cận có hệ thống để ngăn chặn các lỗi lặp đi lặp lại
 
 **Từ hoản hoản đến chống lại sự mỏng manh**
 
-Trong việc tìm kiếm có hệ thống , trước hết bạn phải phân biệt giữa 2 loại lỗi có thể xảy ra trogn công ty của bạn : những lỗi do công nghệ và những lỗi do con người .Điều tuyệt vời là : nếu bạn biết cách giải quyết hiệu quả trong lần đầu tiên , bạn có dễ dàng xử lý trong lần thứ 2 và đưa ra quyết định tốt hơn . Nhà toán học và nhà viết luận về tài chính Nassim Taleb đưa ra một điều thú vị về vấn đề này.  Ông đã lập luận rằng các lỗi là vô cùng quý giá vì chúng dẫn đến sự đổi mới.Ông sử dụng thuật ngữ 'chống lại sự mong manh 'để làm quan điểm của mình .Các mô hình kinh doanh về kỹ thuật số ngày nay yêu cầu nhỏ hơn, phát hành thường xuyên để giảm rủi ro. Điều đó có nghĩa là các công nghệ làm nền tảng cho các mô hình kinh doanh mới không chỉ mạnh mẽ. Chúng phải "chống lại sự mong manh". Các tính năng chính của kỹ thuật chống sự monh mang là nó có thể "lỗi" mà không gây ra sự đổ vỡ. Trong thực tế, một cuộc khủng hoảng có thể làm cho nó tốt hơn.
+Trong việc tìm kiếm có hệ thống , trước hết bạn phải phân biệt giữa 2 loại lỗi có thể xảy ra trong công ty của bạn : những lỗi do công nghệ và những lỗi do con người .Điều tuyệt vời là : nếu bạn biết cách giải quyết hiệu quả vấn đề đầu tiên bạn có dễ dàng xử lý với cái thứ hai, đưa ra quyết định tốt hơn . Nhà toán học và nhà viết luận về tài chính Nassim Taleb đưa ra một điều thú vị về vấn đề này.  Ông đã lập luận rằng các lỗi là vô cùng quý giá vì chúng dẫn đến sự đổi mới.Ông sử dụng thuật ngữ 'chống lại sự mong manh 'để làm quan điểm của mình .Các mô hình kinh doanh về kỹ thuật số ngày nay yêu cầu các phát hành thường xuyên hơn, nhỏ hơn để giảm rủi ro. Điều đó có nghĩa là các công nghệ làm nền tảng cho các mô hình kinh doanh mới không chỉ mạnh mẽ. Chúng phải "chống lại sự mong manh". Các tính năng chính của kỹ thuật chống sự monh mang là nó có thể "lỗi" mà không gây ra sự đổ vỡ. Trong thực tế, một cuộc khủng hoảng có thể làm cho nó tốt hơn.
 
 Tại Amazon, chúng tôi cũng yêu cầu hệ thống và giải pháp của khách hàng chống lại
 sự mong manh, và chúng tôi làm điều đó bằng cách thiết kế hệ thống của chúng tôi cho phép kiểm tra theo thời gian.
 
-Một ví dụ về một công ty Đức đã trở thành "anti-fragile" là HARTING, nhà cung cấp hàng đầu thế giới về cổng kết lối lớn cho máy móc và thiết bị.  HARTING cho thấy cách suy nghĩ trước một bước về các tiêu chuẩn chất lượng trong thế giới số. Chất lượng và sự tin tưởng là những giá trị quan trọng nhất cho công ty truyền thống này, và công nghiệp 4.0 và chuyển đổi kỹ thuật số đã là những lĩnh vực trọng tâm quan trọng đối với họ kể từ năm 2011.Mặc dù lúc đầu khó chấp nhận. HARTING đã nhận ra rằng lỗi đó là không thể tránh khỏi. Vì lý do đó, quá trình phát triển của họ  chuyển sang phương thức linh hoạt hơn.Họ cũng sử dụng phương pháp "tối thiểu sản phẩm khả thi" và dựa vào
+Một ví dụ về một công ty Đức đã trở thành "anti-fragile" là HARTING, nhà cung cấp hàng đầu thế giới về cổng kết nối lớn cho máy móc và thiết bị.  HARTING cho thấy cách suy nghĩ trước một bước về các tiêu chuẩn chất lượng trong thế giới số. Chất lượng và sự tin tưởng là những giá trị quan trọng nhất cho công ty truyền thống này, và công nghiệp 4.0 và chuyển đổi kỹ thuật số đã là những lĩnh vực trọng tâm quan trọng đối với họ kể từ năm 2011.Mặc dù lúc đầu khó chấp nhận. HARTING đã nhận ra rằng lỗi đó là không thể tránh khỏi. Vì lý do đó, quá trình phát triển của họ  chuyển sang phương thức linh hoạt hơn.Họ cũng sử dụng phương pháp "tối thiểu sản phẩm khả thi" và dựa vào
 microservices cho phần mềm của họ. Làm việc theo cách này, HARTING có thể loại bỏ những cái cũ và tạo ra những điều mới dễ dàng hơn. Sau tất cả, HARTING đã trở nên nhanh hơn.
 
-Điều đó có thể cho ta thấy với HARTING MICA, một giải pháp tính toán cho phép
+Điều đó có thể thấy rõ với HARTING MICA, một giải pháp tính toán cho phép
 máy móc cũ có thể trang bị thêm kỹ thuật số. Phần thân và phần cứng
 vẫn phản ánh tiêu chuẩn hoàn hảo của HARTING. Nhưng đối với phần mềm, mục tiêu
 là "không đủ", bởi vì một microservice không bao giờ được hoàn thành  và cũng không hoàn hảo.
 
 **Loại bỏ những sai lầm đáng sợ**
 
-Nếu bạn muốn trở thành anti-fagile, manh mẽ hơn, như HARTING và các công ty khác, bạn cần phải chủ động tìm kiếm những điểm yếu trong một hệ thống khi bạn thử nghiệm. Trong một hệ thống, điều đó nên được phát triển, tất cả các loại lỗi sẽ xảy ra mà bạn không thể dự đoán, đặc biệt là khi các hệ thống cần phải mở rộng quy mô thành các vùng không xác định. Vì vậy, hệ thống của bạn bị lỗi liên tục và làm cho các hệ thống con bị hỏng khi sử dụng các công cụ như Netflix's Chaos Monkey.
+Nếu bạn muốn trở thành anti-fagile, mạnh mẽ hơn, như HARTING và các công ty khác, bạn cần phải chủ động tìm kiếm những điểm yếu trong một hệ thống khi bạn thử nghiệm. Trong một hệ thống, điều đó nên được phát triển, tất cả các loại lỗi sẽ xảy ra mà bạn không thể dự đoán, đặc biệt là khi các hệ thống cần phải mở rộng quy mô thành các vùng không xác định. Vì vậy, hệ thống của bạn bị lỗi liên tục và làm cho các hệ thống con bị hỏng khi sử dụng các công cụ như Netflix's Chaos Monkey.
 
 Nếu bạn làm tất cả những điều này, bạn sẽ bắt đầu chống lại các lỗi tại công ty và xử lý các lỗi một cách bình thường. Và khi lỗi trở thành "việc kinh doanh như thường lệ", không ai sẽ sợ mạo hiểm, thử một ý tưởng mới, sản phẩm mới hoặc dịch vụ mới và xem điều gì xảy ra khi khách hàng tương tác với nó. Đó là cách bạn nhanh chóng tìm ra giải pháp thực sự hiệu quả trong tương lai.
 
